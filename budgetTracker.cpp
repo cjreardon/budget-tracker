@@ -355,7 +355,7 @@ void transactions(Month &monthToEdit)
 }
 int main()
 {
-    vector<Month> months;
+    vector<Month> months; //uses a stack of months 
     while (true)
     {
         int month = getMonth();
@@ -394,6 +394,7 @@ int main()
         {
             break;
         }
+        months.pop_back();
     }
     cout << "" << endl;
     cout << "THANK YOU, HAVE NICE DAY!" << endl;
