@@ -1,0 +1,7 @@
+Month: 10
+Year: 2022
+Income: $1000
+Needs Spending: $0
+Wants Spending: $0
+Savings: $0
+10/14: Paycheck

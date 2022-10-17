@@ -1,0 +1,12 @@
+Month: 2
+Year: 2022
+Income: $100
+Needs Spending: $50
+Wants Spending: $30
+Savings: $20
+2/15: rent
+2/15: beer
+20: ira
+now: rent
+now: beer
+now: ira
